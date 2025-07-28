@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Move Maastar - MahaAvatar Narshima</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    .watch-button {
+      background-color: #e91e63;
+      color: white;
+      padding: 12px 24px;
+      font-size: 18px;
+      border: none;
+      border-radius: 8px;
+      margin: 20px 0;
+      text-decoration: none;
+      display: inline-block;
+    }
+    iframe {
+      margin-top: 20px;
+      border: none;
+    }
+  </style>
+
+  <!-- Popunder Ad -->
+  <script type='text/javascript' src='//pl27258834.profitableratecpm.com/60/36/54/60365469028c58b7376b874702d2391b.js'></script>
+</head>
+<body>
+
+  <h1>🎬 Move Maastar Presents</h1>
+  <h2>MahaAvatar Narshima (Full Movie)</h2>
+
+  <!-- Banner Ad (728x90) -->
+  <div>
+    <script type="text/javascript">
+      atOptions = {
+        'key' : '938b4090f7e667404ed858154fd3cc46',
+        'format' : 'iframe',
+        'height' : 90,
+        'width' : 728,
+        'params' : {}
+      };
+    </script>
+    <script type="text/javascript" src="//www.highperformanceformat.com/938b4090f7e667404ed858154fd3cc46/invoke.js"></script>
+  </div>
+
+  <!-- Watch Now Button (direct ad link) -->
+  <a class="watch-button" href="https://www.profitableratecpm.com/hnpenid9?key=fe338230bff73ab5c1c9971cae071440" target="_blank">▶️ Watch Now</a>
+
+  <!-- Embedded Google Drive Movie -->
+  <iframe src="https://drive.google.com/file/d/1MToykBwoPPak3LQZO4Rnm44K5IeeWyuz/preview" width="100%" height="400"></iframe>
+
+  <!-- Banner Ad (468x60) -->
+  <div>
+    <script type="text/javascript">
+      atOptions = {
+        'key' : 'a822f6d77fa88a16d3ea601b2f0b0038',
+        'format' : 'iframe',
+        'height' : 60,
+        'width' : 468,
+        'params' : {}
+      };
+    </script>
+    <script type="text/javascript" src="//www.highperformanceformat.com/a822f6d77fa88a16d3ea601b2f0b0038/invoke.js"></script>
+  </div>
+
+  <p style="margin-top:30px; font-size:14px;">🎥 Hosted via Google Drive | © Movie rights belong to their owner</p>
+
+</body>
+</html>
